@@ -89,7 +89,7 @@ PreparedStatement pst;
         jLabel1.setText("ID knjige");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel2.setText("Ime");
+        jLabel2.setText("Naziv");
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1", "2", "3", "4", "5", "6", "7", "8" }));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
